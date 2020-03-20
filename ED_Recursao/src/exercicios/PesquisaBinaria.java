@@ -1,6 +1,6 @@
 package exercicios;
 
-public class Exercicio03 {
+public class PesquisaBinaria {
 	
 	public static void main(String[] args) {
 		int[] vetorNumero = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};
